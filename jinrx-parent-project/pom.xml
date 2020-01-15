@@ -25,7 +25,7 @@
         <!-- 定义基础依赖版本号 -->
         <dubbo.version>0.2.0</dubbo.version>
         <zkclient.version>0.1</zkclient.version>
-        <zookeeper.version>3.4.5</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <redis.version>1.1.10</redis.version>
         <druid.version>1.1.10</druid.version>
         <log4j.version>1.2.17</log4j.version>
